@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63637b53_002D3aa3_002D4ad4_002D894d_002D237aa3082dbf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PositiveRadiusCircleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.PositiveRadiusCircleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.NegativeSidesTriangleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.NewTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.NegativeRadiusCircleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.PositiveSidesTriangleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.IsTriangleRightTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.IncorrectParametersCircleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE8AE65F-E3BF-4AA4-9F71-2AD60BE9DB6D::net8.0::FigureArea.Tests.FigureAreaTest.IncorrectParametersTriangleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
